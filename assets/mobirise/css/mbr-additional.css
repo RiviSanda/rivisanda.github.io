@@ -1395,95 +1395,8 @@ body {
     width: 100% !important;
   }
 }
-.cid-qZzQDRNiQU {
-  padding-top: 75px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qZzQDRNiQU .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-qZzQDRNiQU .number-wrap {
-  color: #565656;
-  border-color: rgba(255, 255, 255, 0.15);
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  padding: 5px 10px 13px 10px;
-  margin: 0;
-  min-width: 118px;
-  border-radius: 2px;
-  max-width: 100%;
-}
-.cid-qZzQDRNiQU .number {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  text-transform: none;
-  letter-spacing: -2px;
-  word-spacing: 0;
-  line-height: 1.3;
-  color: #28262b;
-}
-.cid-qZzQDRNiQU .period {
-  display: block;
-  padding-top: 2px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-.cid-qZzQDRNiQU .dot {
-  position: absolute;
-  top: -10px;
-  right: -1em;
-  width: 1em;
-  display: block;
-  height: 83%;
-  overflow: hidden;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 89.65px;
-  text-transform: none;
-  letter-spacing: 0;
-  word-spacing: 0;
-  color: #28262b;
-}
-.cid-qZzQDRNiQU .countdown-cont {
-  max-width: 700px;
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qZzQDRNiQU .dot {
-    display: none;
-  }
-}
-@media (max-width: 543px) {
-  .cid-qZzQDRNiQU .number-wrap {
-    margin-bottom: 15px;
-  }
-}
-@media (max-width: 550px) {
-  .cid-qZzQDRNiQU .col-xs-3 {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-qZzQDRNiQU .number-wrap {
-    min-width: auto;
-  }
-}
-@media (max-width: 440px) {
-  .cid-qZzQDRNiQU .number,
-  .cid-qZzQDRNiQU .dot {
-    font-size: 40px;
-  }
-}
-@media (max-width: 380px) {
-  .cid-qZzQDRNiQU .period {
-    font-size: 0.8rem;
-  }
-}
 .cid-qZyNO6T8TO {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
@@ -1716,7 +1629,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #c4bc3b;
+  background-color: #ffffff;
 }
 .cid-qZluknBBIr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
