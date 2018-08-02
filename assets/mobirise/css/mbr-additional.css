@@ -3486,29 +3486,13 @@ body {
 .cid-qZA1J5OrGP {
   padding-top: 120px;
   padding-bottom: 60px;
+  background-image: url("../../../assets/images/esala-perahera-815x338.jpg");
 }
-.cid-qZAeBq27A3 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
+.cid-qZA1J5OrGP I {
+  color: #9f9f9f;
 }
-.cid-qZAeBq27A3 .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qZAeBq27A3 .section-text {
-  padding: 2rem 0;
-}
-.cid-qZAeBq27A3 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qZAeBq27A3 .inner-container {
-    width: 100% !important;
-  }
+.cid-qZA1J5OrGP H2 {
+  color: #0f7699;
 }
 .cid-qZA2wRivtB {
   padding-top: 60px;
