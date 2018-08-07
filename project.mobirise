@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rivi Sanda",
-    "currentPage": "TechInfo.html",
+    "currentPage": "DialogCodes.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 74,
     "versionPublish": "4.8.1",
@@ -3274,7 +3274,7 @@
         }
       ]
     },
-    "page6.html": {
+    "DialogCodes.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Dialog Short Codes",
