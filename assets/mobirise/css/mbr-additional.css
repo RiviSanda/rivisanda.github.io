@@ -1372,28 +1372,13 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qZAEgWprPc {
-  background: #ffffff;
+.cid-r01LT4K6vr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
-.cid-qZAEgWprPc .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qZAEgWprPc .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qZAEgWprPc figcaption {
-  position: relative;
-}
-.cid-qZAEgWprPc figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qZAEgWprPc .image-block {
-    width: 100% !important;
-  }
+.cid-r01LT4K6vr .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qZyNO6T8TO {
   padding-top: 30px;
@@ -4068,6 +4053,31 @@ body {
 .cid-qZluknBBIr .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-r01NxIfz1h {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #c1c1c1;
+  background: linear-gradient(0deg, #232323, #c1c1c1);
+}
+.cid-r01NxIfz1h .image-block {
+  margin: auto;
+}
+.cid-r01NxIfz1h figcaption {
+  position: relative;
+}
+.cid-r01NxIfz1h figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r01NxIfz1h .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r01NxIfz1h DIV {
+  color: #232323;
+}
 .cid-qZDcvr91tU {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -4169,6 +4179,31 @@ body {
   .cid-qZDcvr91tU .mbr-text {
     text-align: center !important;
   }
+}
+.cid-r01N1uOZhM {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #c1c1c1;
+  background: linear-gradient(0deg, #232323, #c1c1c1);
+}
+.cid-r01N1uOZhM .image-block {
+  margin: auto;
+}
+.cid-r01N1uOZhM figcaption {
+  position: relative;
+}
+.cid-r01N1uOZhM figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r01N1uOZhM .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r01N1uOZhM DIV {
+  color: #232323;
 }
 .cid-qZluknBBIr .navbar {
   padding: .5rem 0;
@@ -4558,4 +4593,106 @@ body {
 .cid-qZluknBBIr .nav-link:hover,
 .cid-qZluknBBIr .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-r01MTlCfrx {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-r01MTlCfrx .content {
+    text-align: center;
+  }
+  .cid-r01MTlCfrx .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-r01MTlCfrx .img-logo img {
+  height: 6rem;
+}
+.cid-r01MTlCfrx [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-r01MTlCfrx .input-group-btn {
+  display: inline-block;
+}
+.cid-r01MTlCfrx .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-r01MTlCfrx .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r01MTlCfrx [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+}
+.cid-r01MTlCfrx .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-r01MTlCfrx .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-r01MTlCfrx .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-r01MTlCfrx .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-r01MTlCfrx .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-r01MTlCfrx .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r01MTlCfrx .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-r01MTlCfrx .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-r01MTlCfrx form .input-group input.form-control,
+.cid-r01MTlCfrx form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.cid-r01MTlCfrx .form-inline {
+  justify-content: center;
+}
+.cid-r01MTlCfrx .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-r01MTlCfrx .foot-logo {
+    text-align: center !important;
+  }
+  .cid-r01MTlCfrx .foot-title {
+    text-align: center !important;
+  }
+  .cid-r01MTlCfrx .mbr-text {
+    text-align: center !important;
+  }
 }
