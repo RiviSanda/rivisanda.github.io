@@ -3416,6 +3416,20 @@ body {
     width: 100% !important;
   }
 }
+.cid-r0McRaarn0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #465052;
+  background: linear-gradient(0deg, #465052, #232323);
+}
+.cid-r0McRaarn0 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r0McRaarn0 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qZA2wRivtB {
   padding-top: 60px;
   padding-bottom: 60px;
